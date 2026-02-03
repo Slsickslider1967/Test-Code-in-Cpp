@@ -1,58 +1,9 @@
-# SUVAT in C++
+# Learning C++ 
 
-## Overview
-A C++ implementation of SUVAT equations for solving physics kinematics problems.
+## OverView
+After learing C# in school for the past 4 years it turns out a lot of oppertunities at jobs require C++ so i am taking the time to learn C++ too, going a large knowlage on C++, C# and other lanuages. 
 
-## What are SUVAT Equations?
-SUVAT equations describe motion with constant acceleration using five variables:
-- **S** - Displacement
-- **U** - Initial velocity
-- **V** - Final velocity
-- **A** - Acceleration
-- **T** - Time
+## Initial thoughts 
+Though the syntax is very diffrence im finding that i am able to fly through basic learning objectives due to knowlage on Comp Sci fundimentls like data types and some syntax overlap, as well as this my knack at being able to understand and decyoher code even in languages i do not know is a masssive help.
 
-## Features
-- [List key features of your program]
-- [e.g., Calculate unknown variables given known values]
-- [e.g., Input validation]
-
-## Installation
-```bash
-# Clone the repository
-git clone [repository-url]
-
-# Navigate to project directory
-cd "SUVAT in C++"
-
-# Compile
-g++ -o suvat main.cpp
-```
-
-## Usage
-```bash
-# Run the program
-./suvat
-```
-
-## SUVAT Equations Implemented
-1. v = u + at
-2. s = ut + ½at²
-3. s = vt - ½at²
-4. v² = u² + 2as
-5. s = ½(u + v)t
-
-## Examples
-[Add usage examples here]
-
-## Requirements
-- C++ compiler (C++11 or later)
-- [Other dependencies]
-
-## License
-[Specify license]
-
-## Contributing
-[Contribution guidelines]
-
-## Author
-[Your name/contact]
+A lot of the syntax alos helps, i can easly connect words, Cout is just a short hand for character Out, which makes a lot of sence and helps my brain connect the dots and remember. 

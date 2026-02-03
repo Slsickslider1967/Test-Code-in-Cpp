@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/slickslider/Documents/Code/SUVAT in C++",
-      "program": "/home/slickslider/Documents/Code/SUVAT in C++/build/Debug/outDebug",
+      "cwd": "/home/slickslider/Documents/Code/C++ Testing",
+      "program": "/home/slickslider/Documents/Code/C++ Testing/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
